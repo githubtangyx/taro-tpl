@@ -1,0 +1,13 @@
+@import '../../../assets/css/theme.scss';
+
+.add {
+  .item-ws {
+    background-color: $color-border-base;
+  }
+  .i-content {
+    border: none;
+  }
+  .submit-container {
+    padding-top: 25px;
+  }
+}

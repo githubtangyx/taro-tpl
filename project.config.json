@@ -1,0 +1,27 @@
+{
+  "miniprogramRoot": "./dist",
+  "projectname": "taro-template",
+	"description": "taro多端脚手架",
+	"appid": "wxfd11d0f74de5f915",
+	"setting": {
+		"urlCheck": false,
+		"es6": false,
+		"postcss": false,
+		"minified": false,
+		"newFeature": true,
+		"coverView": true,
+		"autoAudits": false,
+		"uglifyFileName": false,
+		"checkInvalidKey": true,
+		"checkSiteMap": true,
+		"uploadWithSourceMap": true,
+		"babelSetting": {
+			"ignore": [],
+			"disablePlugins": [],
+			"outputPath": ""
+		}
+	},
+	"libVersion": "2.10.4",
+	"compileType": "miniprogram",
+	"condition": {}
+}
