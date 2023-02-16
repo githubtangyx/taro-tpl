@@ -1,1 +1,1 @@
-[文档详见](https://www.yuque.com/gem-mine/fish-mobile/gk7gsg)
+模板
